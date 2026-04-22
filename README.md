@@ -49,11 +49,17 @@ NFHS5-EDA-Project/
 ⚙️ Features
 
 ✔ Data cleaning and preprocessing
+
 ✔ State-wise health indicator analysis
+
 ✔ Advanced visualizations (histogram, bar chart, line plot, boxplot, pairplot, violin plot, regression plot, heatmap)
+
 ✔ Statistical analysis (correlation, hypothesis testing)
+
 ✔ Outlier detection
+
 ✔ Machine Learning model (Linear Regression)
+
 ✔ Health indicator prediction
 
 
